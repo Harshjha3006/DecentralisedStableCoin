@@ -1,0 +1,8 @@
+{
+    "DecentralisedStableCoin" : {
+        "sepolia" : "0x9Ea1C5CaFAAD73b8496720283c0130ec2da19f1d"
+    },
+    "DSCEngine" : {
+        "sepolia" : "0x8701e4B155a1633c5F85A955F18418a051d5CFcC"
+    }
+}
